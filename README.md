@@ -1,0 +1,1 @@
+This was originally designed to be used with the default implementation of LEARNING.
